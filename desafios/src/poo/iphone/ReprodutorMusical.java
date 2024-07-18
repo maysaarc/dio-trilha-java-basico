@@ -1,4 +1,4 @@
-package poo;
+package poo.iphone;
 
 import java.util.Scanner;
 

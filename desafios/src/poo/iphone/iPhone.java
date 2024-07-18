@@ -1,4 +1,4 @@
-package poo;
+package poo.iphone;
 
 public class iPhone {
     public static void main(String[] args) {
